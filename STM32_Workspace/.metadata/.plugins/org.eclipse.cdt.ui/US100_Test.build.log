@@ -1,0 +1,10 @@
+14:29:03 **** Incremental Build of configuration Debug for project US100_Test ****
+make -j4 all 
+arm-none-eabi-size   US100_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14308	    124	   1868	  16300	   3fac	US100_Test.elf
+Finished building: default.size.stdout
+ 
+
+14:29:03 Build Finished. 0 errors, 0 warnings. (took 542ms)
+
